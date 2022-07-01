@@ -1,0 +1,23 @@
+{   "language" : {
+        "Francais": {
+            "1": "Page Principale",
+            "2": "La Menu",
+            "3": "Faites une réservation!"
+        },
+        "English": {
+            "1": "Home",
+            "2": "The Menu",
+            "3": "Make a Reservation!"
+        },
+        "Deutsch": {
+            "1": "Startseite",
+            "2": "Die Karte",
+            "3": "Machen Sie eine Reservierung!"
+        },
+        "Lëtzebuergesch": {
+            "1": "Startseite",
+            "2": "d'Karte",
+            "3": "Macht eng Reservatioun!"
+        }
+    }
+}

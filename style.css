@@ -1,0 +1,77 @@
+html{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%; 
+    background-image: url('assets/au-chocolat-facade.jpg');
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-color: #4199d0;
+}
+
+button {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 25px;
+    padding-left: 25px;
+    /* margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 5px;
+    margin-left: 5px; */
+    margin: 10px;
+    width: 100%;
+    height: 100%;
+    font-size: 1.4em;
+}
+
+#home{
+    height: 100%;
+    width: 100%;
+    display: block;
+    align-items: center;
+    justify-content: center;
+}
+
+#navigationBar{
+    display: flex;
+    position: relative;
+    margin-top: 5%;
+    width: 100%;
+    height: 10%;
+    /* border: 5px solid black; */
+}
+
+#homePageTitle{
+    position: relative;
+    width: 100%;
+    height: 10%;
+    /* margin:auto; */
+}
+
+canvas {
+    padding-left: 33.33%;
+ }
+
+ #menuPage{
+    background-color: aliceblue;
+    position: absolute;
+    left: 73vh;
+    width: 50vh;
+    height: 50%;
+    padding: 20px;
+    border: 10px solid #3b3b3b;
+ }
+ #reservationPage{
+    background-color: aliceblue;
+    position: absolute;
+    left: 73vh;
+    width: 50vh;
+    height: 50%;
+    padding: 20px;
+    border: 10px solid #3b3b3b;
+ }
